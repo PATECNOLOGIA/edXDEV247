@@ -1,0 +1,10 @@
+C:\DEV247\CSharpSeDes\bin\Debug\netcoreapp2.0\CSharpSeDes.deps.json
+C:\DEV247\CSharpSeDes\bin\Debug\netcoreapp2.0\CSharpSeDes.runtimeconfig.json
+C:\DEV247\CSharpSeDes\bin\Debug\netcoreapp2.0\CSharpSeDes.runtimeconfig.dev.json
+C:\DEV247\CSharpSeDes\bin\Debug\netcoreapp2.0\CSharpSeDes.dll
+C:\DEV247\CSharpSeDes\bin\Debug\netcoreapp2.0\CSharpSeDes.pdb
+C:\DEV247\CSharpSeDes\obj\Debug\netcoreapp2.0\CSharpSeDes.csproj.CoreCompileInputs.cache
+C:\DEV247\CSharpSeDes\obj\Debug\netcoreapp2.0\CSharpSeDes.AssemblyInfoInputs.cache
+C:\DEV247\CSharpSeDes\obj\Debug\netcoreapp2.0\CSharpSeDes.AssemblyInfo.cs
+C:\DEV247\CSharpSeDes\obj\Debug\netcoreapp2.0\CSharpSeDes.dll
+C:\DEV247\CSharpSeDes\obj\Debug\netcoreapp2.0\CSharpSeDes.pdb
