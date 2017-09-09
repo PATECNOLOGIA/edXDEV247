@@ -7,3 +7,4 @@ C:\DEV247\Workspace\myapp\obj\Debug\netcoreapp1.1\MyApp.csproj.CoreCompileInputs
 C:\DEV247\Workspace\myapp\obj\Debug\netcoreapp1.1\MyApp.AssemblyInfo.cs
 C:\DEV247\Workspace\myapp\obj\Debug\netcoreapp1.1\MyApp.dll
 C:\DEV247\Workspace\myapp\obj\Debug\netcoreapp1.1\MyApp.pdb
+c:\DEV247\Workspace\MyApp\obj\Debug\netcoreapp1.1\MyApp.AssemblyInfoInputs.cache

@@ -19,6 +19,8 @@ namespace MyApp
             Console.WriteLine($"The product ID is {product2.ID}");
             Console.WriteLine($"The product Name is {product2.Name}");
             Console.WriteLine($"The product Price is {product2.Price}");
+
+            Console.ReadLine();
         }
     }
     //Create model class
