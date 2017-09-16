@@ -38,3 +38,13 @@ C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.csproj.CoreCompileInputs.cache
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfoInputs.cache
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+c:\DEV247\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
